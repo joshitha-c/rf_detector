@@ -1,0 +1,21 @@
+# date:07/8
+# time spent:1hr
+## description:
+To plan my custom handheld Wi-Fi and Bluetooth signal tracker, I researched open-source RF detectors and electronics suppliers to select components that balance precision, portability, and performance. For the brain, I chose the compact **ESP32-C3** microcontroller to handle wireless scanning and system logic, pairing it with an **AD8318 RF power detector** module and an **SMA antenna** for accurate signal measurement. I paired this with a vibrant **2.4" SPI TFT display** for real-time signal readout, seamlessly navigated using an **EC11 rotary encoder** with an integrated push button. The device is powered by a rechargeable **3.7V Li-ion battery**, featuring a **USB-C port** backed by an **MCP73831 charger IC** and a **600mA AP2112K 3.3V LDO** to keep power steady during heavy wireless bursts. For instant feedback, I incorporated a multi-sensory alert system with a **WS2812B RGB LED**, an **active buzzer**, and a **coin vibration motor**, plus a **1W white LED flashlight** and battery voltage monitoring for practical field use.
+# images:
+<img width="1431" height="515" alt="image" src="https://github.com/user-attachments/assets/c44a5362-58dc-4d1c-b7ae-1a77b365cb0f" />
+
+------
+# date:07/8
+# time spent:1.25hr
+## description:
+First i started gathering the footprints of each part and then i had started with the usb c receptable port for the part and then connected them with the resistor.
+ANd then the MCP73831 charger topping off your 3.7V battery at 500 ma while lighting up a status LED while it charges.
+then i starteD placed a main power switch right after the battery so you can flip the tracker on or off whenever you want, even while it's plugged in and charging.
+That battery power goes into the AP2112K regulator, which tames the fluctuating battery voltage 3.0V into a super stable 3.3V parts.The next part is the Esp module which is the main part of the device.
+# images:
+<img width="321" height="342" alt="image" src="https://github.com/user-attachments/assets/c3034b0a-92c2-4c27-ac2e-7c68ac60ac56" />
+<img width="441" height="389" alt="image" src="https://github.com/user-attachments/assets/8cb2ae33-7288-4429-989b-bd32eaa94e9a" />
+<img width="796" height="509" alt="image" src="https://github.com/user-attachments/assets/c40f7d2d-e94c-48e9-bd92-7db0f2963520" />
+
+------
