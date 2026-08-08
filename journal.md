@@ -1,4 +1,4 @@
-<img width="241" height="25" alt="image" src="https://github.com/user-attachments/assets/6c86c383-9491-4772-a24c-a137074de44c" /># date:07/8
+# date:07/8
 # time spent:1.5hr
 ## description:
 To plan my custom handheld Wi-Fi and Bluetooth signal tracker, I researched open-source RF detectors and electronics suppliers to select components that balance precision, portability, and performance. For the brain, I chose the compact **ESP32-C3** microcontroller to handle wireless scanning and system logic, pairing it with an **AD8318 RF power detector** module and an **SMA antenna** for accurate signal measurement. I paired this with a vibrant **2.4" SPI TFT display** for real-time signal readout, seamlessly navigated using an **EC11 rotary encoder** with an integrated push button. The device is powered by a rechargeable **3.7V Li-ion battery**, featuring a **USB-C port** backed by an **MCP73831 charger IC** and a **600mA AP2112K 3.3V LDO** to keep power steady during heavy wireless bursts. For instant feedback, I incorporated a multi-sensory alert system with a **WS2812B RGB LED**, an **active buzzer**, and a **coin vibration motor**, plus a **1W white LED flashlight** and battery voltage monitoring for practical field use.
@@ -35,5 +35,15 @@ I had started the rf adapter part in which first i had started checking the docs
 # images:
 <img width="298" height="293" alt="image" src="https://github.com/user-attachments/assets/fe2b78f0-9c69-4645-b0cf-595f770bf833" />
 <img width="1101" height="819" alt="image" src="https://github.com/user-attachments/assets/4388931b-fa7e-4fd2-ad86-b7d89c3ba3c2" />
+
+------
+# date:08/8
+# time spent:1.5hr
+## description:
+I had started with the implemententaion with a battery voltage monitor using a symmetric voltage divider formed by two 100k resistors,this safely halves the variable battery voltage and then i also added a buzzer to the devicce so that tehre would be some sound when we feel the frequency,and then i connected the buzzer with the esp s3 controller,and then i had checked about thevibration motor which provides some vibration when there is a signal and it links like the same as the buzzer and then i connected it with the esp-s3 controller and then i had added a schotkeyy devicce for the circuit
+# images:
+<img width="426" height="252" alt="image" src="https://github.com/user-attachments/assets/b2a5b6a6-d673-49ed-86b2-8e0da35bad78" />
+<img width="398" height="330" alt="image" src="https://github.com/user-attachments/assets/0f3be9a2-ad3a-49a8-833c-f28fb3de1da7" />
+<img width="565" height="372" alt="image" src="https://github.com/user-attachments/assets/1293e0f3-d62b-4265-a562-62978bf8608d" />
 
 ------
