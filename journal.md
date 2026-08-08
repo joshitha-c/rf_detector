@@ -59,3 +59,13 @@ I had started building the led WS2812Brgb in the circuit for the knowing the sta
 <img width="541" height="431" alt="image" src="https://github.com/user-attachments/assets/0819f1ea-fa1b-4a54-b969-b3b317d6beba" />
 
 ------
+# date:08/8
+# time spent:0.75hr
+## description:
+First i had started running the erc ,in that i had many errors which were nearly 20 and then i had to go through each one and then fix them ,many were regarding the no connections in the pins of the parts and then some errors were regarding the classic kicad power output ,so i added each pwr_flag to the points where there was a problem
+# images:
+<img width="709" height="468" alt="image" src="https://github.com/user-attachments/assets/69d5a610-e3ed-45a4-9994-a4836da8cafa" />
+<img width="707" height="459" alt="image" src="https://github.com/user-attachments/assets/6822e884-6dec-404e-b407-a7ea3e18513d" />
+
+
+------
