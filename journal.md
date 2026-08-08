@@ -47,3 +47,15 @@ I had started with the implemententaion with a battery voltage monitor using a s
 <img width="565" height="372" alt="image" src="https://github.com/user-attachments/assets/1293e0f3-d62b-4265-a562-62978bf8608d" />
 
 ------
+# date:08/8
+# time spent:1.75hr
+## description:
+I had started building the led WS2812Brgb in the circuit for the knowing the status in for the signal detector (red-strong,yellow-normal,green-weak),and then i also added in the an led flashlight in the circuit and then Powered directly from VBAT_SYS and then added 100ohm pull-down holds the MOSFET.Then i added an rotatory encoder which needed gpio pins ,but all were ussed in the esp-s3 module so i have added and extender to the sda,scl line and then connected it to the rotatory encoder to it.
+# images:
+<img width="347" height="272" alt="image" src="https://github.com/user-attachments/assets/f7d9936f-a842-445c-951a-1809d05ca57c" />
+<img width="413" height="263" alt="image" src="https://github.com/user-attachments/assets/496a094a-d405-44c1-b72a-8ab98ba29aee" />
+<img width="260" height="212" alt="image" src="https://github.com/user-attachments/assets/e66bdcc8-8a9d-46e5-9e27-d54d19006d2e" />
+<img width="445" height="201" alt="image" src="https://github.com/user-attachments/assets/4111a3c6-5b87-4840-beed-343b20a9e131" />
+<img width="541" height="431" alt="image" src="https://github.com/user-attachments/assets/0819f1ea-fa1b-4a54-b969-b3b317d6beba" />
+
+------
