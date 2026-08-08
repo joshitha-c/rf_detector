@@ -69,3 +69,15 @@ First i had started running the erc ,in that i had many errors which were nearly
 
 
 ------
+# date:08/8
+# time spent:1.25hr
+## description:
+I had started assigning footprints for each i had checked the each part and its assigned footprints in the lscs number in the mouser website and first i added all the footprints and then i had found many errors while updating ,i fixed the each one by changing it into newer parts and then at last i had fixed all the problems,and i had tried to fix the warnings,bu found out that they were common,so i left them.
+# images:
+<img width="1608" height="883" alt="image" src="https://github.com/user-attachments/assets/d10a7887-bd50-4bb4-afb1-f93378d20a95" />
+<img width="1609" height="883" alt="image" src="https://github.com/user-attachments/assets/faa0d901-46bf-4250-8bf4-3556cb76d669" />
+<img width="757" height="680" alt="image" src="https://github.com/user-attachments/assets/1be76884-0a79-4dcd-bb48-e10ac5ded397" />
+<img width="599" height="549" alt="image" src="https://github.com/user-attachments/assets/c23849f6-ca0a-4e4d-a37b-9db4944a1c45" />
+<img width="782" height="709" alt="image" src="https://github.com/user-attachments/assets/a0c2ec36-7dbf-4859-9d9e-02d98314c4af" />
+
+------
