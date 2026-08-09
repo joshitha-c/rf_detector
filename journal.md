@@ -81,3 +81,14 @@ I had started assigning footprints for each i had checked the each part and its 
 <img width="782" height="709" alt="image" src="https://github.com/user-attachments/assets/a0c2ec36-7dbf-4859-9d9e-02d98314c4af" />
 
 ------
+# date:09/8
+# time spent:1hr
+## description:
+I had started the arrangment off the pieces in the devicces it was very difficult because there were many small resistors which was very difficult to make them in a enclosure but the bigger pieces were easy to move as they were less and then i had done the edge cuts for the device
+# images:
+<img width="599" height="549" alt="image" src="https://github.com/user-attachments/assets/c724d21a-09d6-4b3a-b411-2c19341bd21b" />
+<img width="1289" height="817" alt="image" src="https://github.com/user-attachments/assets/02a77973-f3bf-4537-a25a-61d3d2e05c0a" />
+<img width="617" height="694" alt="image" src="https://github.com/user-attachments/assets/93d51065-64c5-477f-8d5b-5c9d62c2a2a0" />
+<img width="685" height="778" alt="image" src="https://github.com/user-attachments/assets/df9386b0-def9-4cb1-ae84-c335cd8bfc91" />
+
+------
