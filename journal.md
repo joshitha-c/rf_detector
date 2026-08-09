@@ -120,3 +120,11 @@ I had ran the design rule checker and i had found ou that there were 17 errors i
 <img width="1577" height="863" alt="image" src="https://github.com/user-attachments/assets/26fde046-16b1-4114-8b19-3f4c26b5c8b6" />
 
 ------
+# date:09/8
+# time spent:0.5hr
+## description:
+I had completed the readme and also i had exported the gerber files and also exported the cad files in the repo and then i had zipped the simulator and released it in the github repo.
+
+------
+# Total hrs:16.25hrs
+## Tech: kicad
