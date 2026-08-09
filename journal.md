@@ -109,3 +109,14 @@ The hardest part of connecting wires has been completed and this part was bit di
 <img width="1151" height="798" alt="image" src="https://github.com/user-attachments/assets/6b643819-cc97-478f-9380-9bd057536e7e" />
 
 ------
+# date:09/8
+# time spent:0.75hr
+## description:
+I had ran the design rule checker and i had found ou that there were 17 errors in which many wires were overlapping so i had rerouted the wiring and fixed all the errors ans some errors were regarding mounting holes which were too fixed and i had ignored the warnings,and the pcb was good in the 3d view
+# images:
+<img width="809" height="786" alt="image" src="https://github.com/user-attachments/assets/cff1c3e3-1f81-4731-acb3-566d9a380362" />
+<img width="818" height="756" alt="image" src="https://github.com/user-attachments/assets/ec1dd006-686b-4b34-9ec9-22b6e8c297e2" />
+<img width="820" height="790" alt="image" src="https://github.com/user-attachments/assets/98cd5b17-8f14-4436-a00c-5527e2068956" />
+<img width="1577" height="863" alt="image" src="https://github.com/user-attachments/assets/26fde046-16b1-4114-8b19-3f4c26b5c8b6" />
+
+------
