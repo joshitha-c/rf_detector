@@ -92,3 +92,20 @@ I had started the arrangment off the pieces in the devicces it was very difficul
 <img width="685" height="778" alt="image" src="https://github.com/user-attachments/assets/df9386b0-def9-4cb1-ae84-c335cd8bfc91" />
 
 ------
+# date:09/8
+# time spent:2.5hr
+## description:
+I had started the routing work which was very difficult to complete,i had completed the routing of the pcb and i have completed only 70% the rest was bit difficult so i will complete it later.
+# images:
+<img width="1243" height="811" alt="image" src="https://github.com/user-attachments/assets/c932f2e2-6352-4421-a7e7-b71b57425f9f" />
+
+------
+# date:09/8
+# time spent:0.75hr
+## description:
+The hardest part of connecting wires has been completed and this part was bit difficult as it contains all about the junnctions and the via points between each layers ,now i should run the erc and see if there wwere any errors
+# images:
+<img width="815" height="817" alt="image" src="https://github.com/user-attachments/assets/d47a1dca-3487-4e8e-941a-7fcc4ad385db" />
+<img width="1151" height="798" alt="image" src="https://github.com/user-attachments/assets/6b643819-cc97-478f-9380-9bd057536e7e" />
+
+------
