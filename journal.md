@@ -126,5 +126,23 @@ I had ran the design rule checker and i had found ou that there were 17 errors i
 I had completed the readme and also i had exported the gerber files and also exported the cad files in the repo and then i had zipped the simulator and released it in the github repo.
 
 ------
-# Total hrs:16.25hrs
+# date:16/8
+# time spent:1.25hr
+## description:
+I had changed the pcb layout and firstly ichanged the differential pairs for data wiring in the schematic and the pcb and then i had changed the disctance from the keep out zone so that there would be no signal issue and then i had figured out how to add the ground planes on both sides and added them and then madde alll the resistors to the same model.
+# images:
+<img width="847" height="619" alt="image" src="https://github.com/user-attachments/assets/2fd94734-29f6-4c5d-bd68-4989c7278054" />
+<img width="631" height="567" alt="image" src="https://github.com/user-attachments/assets/b1e892c4-c987-4b18-9c51-84ec342e2373" />
+
+------
+# date:16/8
+# time spent:0.5hr
+## description:
+I had rechecked the drc so that there would be no issue and i had fixed all the errors in the drc which were arround 30 and many of them were regarding traces issue and i fixed them all.
+# images:
+<img width="811" height="750" alt="image" src="https://github.com/user-attachments/assets/71a9280c-deef-4329-8f14-31ace224ddaf" />
+<img width="809" height="788" alt="image" src="https://github.com/user-attachments/assets/b28b448f-5ad0-415d-814b-6de58c432f1f" />
+
+------
+# Total hrs:18.00hrs
 ## Tech: kicad
