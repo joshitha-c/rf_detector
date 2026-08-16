@@ -40,3 +40,7 @@ A portable, custom-built RF signal scanner and power detector designed for knowi
 ## Tools Used
 
 * **Design Software:** KiCad)
+## schematics:
+<img width="1097" height="765" alt="image" src="https://github.com/user-attachments/assets/6b4f247e-17f9-4d2f-95c8-479e1ef87bc0" />
+## pcb:
+<img width="261" height="508" alt="image" src="https://github.com/user-attachments/assets/905fd175-f3c0-477f-8f56-f08501816b44" />
